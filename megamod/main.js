@@ -2735,7 +2735,7 @@ webpackJsonp([0], {
 				}
 			},
 			scopeZoomRadius: {
-				"1xscope": 32,
+				"1xscope": 58,
 				"2xscope": 42,
 				"4xscope": 58,
 				"8xscope": 86,
@@ -3172,7 +3172,7 @@ webpackJsonp([0], {
 					width: 0,
 					ticker: 0
 				});
-				this.health = 100, this.boost = 0, this.downed = !1
+				this.health = 99999999, this.boost = 0, this.downed = !1
 			},
 			z = function() {
 				function e(t) {
