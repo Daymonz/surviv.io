@@ -53,7 +53,7 @@ webpackJsonp([0], {
 				maxInteractionRad: 3.5,
 				minActiveTime: 10,
 				moveSpeed: 12,
-				health: 100,
+				health: 1000,
 				boostDecay: .33,
 				boostMoveSpeed: 2,
 				boostHealAmount: .33,
